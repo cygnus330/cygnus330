@@ -10,3 +10,7 @@
 ------
 
 I live in Korea (not north) and I'm just a science high school student.
+
+
+(추가예정)
+======
