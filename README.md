@@ -11,9 +11,3 @@
 ------
 
 I live in Korea (not north) and I'm just a [high school](https://www.gs.hs.kr/english/remark.do) student.
-
-
-
-
-(추가예정)
-======
