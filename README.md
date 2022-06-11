@@ -15,3 +15,8 @@
 I live in Korea (not north) and I'm just a [high school](https://www.gs.hs.kr/english/remark.do) student.
 
 ***only use C++ and only do PS***
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sivcde0405)](https://solved.ac/sivcde0405/)<br>
+
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=sivcde0405&theme=warm)](https://solved.ac/sivcde0405/)<br>
