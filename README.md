@@ -17,6 +17,7 @@
 * C/C++
 * Python 3
 * Kotlin (very little bit)
+* LaTeX ..?
 
 ## Contact me
 
