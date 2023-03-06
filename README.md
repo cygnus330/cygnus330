@@ -23,4 +23,4 @@
 
 * Mail : sivcde0405@gmail.com / gs22117@gs.hs.kr
 * Discord : 염화은#7055
-* Blog : https://sivcde0405.tistory.com/
+* Blog : http://blog.cygnus330.me/
