@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygnus330&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>
 
-## t사용할 줄 아는 것들
+## 사용할 줄 아는 것들
 
 * C/C++
 * Python 3
