@@ -3,7 +3,7 @@
 한국에 거주하고 있는 평범한 고등학생 1입니다.
 ~~사실 법적으로는 고등학교가 아닙니다~~
 
-# 알고리즘 문제해결, 개발
+## 알고리즘 문제해결, 개발
 
 <table><tr><td valign="top" width="20%">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sivcde0405" align="left" style="width: 100%" /><td valign="top" width="20%">
