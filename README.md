@@ -21,6 +21,6 @@
 
 ## 연락처
 
-* Mail : sivcde0405@gmail.com / gs22117@gs.hs.kr
+* Mail : choigriaffe@naver.com / gs22117@gs.hs.kr
 * Discord : 염화은#7055
 * Blog : http://blog.cygnus330.me/
