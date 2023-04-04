@@ -16,8 +16,14 @@
 
 * C/C++
 * Python 3
-* Kotlin (기초)
 * LaTeX
+
+## 사용하려고 노력하고 있는 것들
+
+* CUDA
+* Kotlin
+* Dart
+* Flutter
 
 ## 연락처
 
