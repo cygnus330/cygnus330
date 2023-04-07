@@ -16,14 +16,13 @@
 
 * C/C++
 * Python 3
-* LaTeX
+* ~~LaTeX (튜링 완전이다..!)~~
 
 ## 사용하려고 노력하고 있는 것들
 
 * CUDA
 * Kotlin
-* Dart
-* Flutter
+* Dart + Flutter
 
 ## 연락처
 
