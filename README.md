@@ -12,20 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cygnus330&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>
 
-## 사용할 줄 아는 것들
-
-* C/C++
-* Python 3
-* ~~LaTeX (튜링 완전이다..!)~~
-
-## 사용하려고 노력하고 있는 것들
-
-* CUDA
-* Kotlin
-* Dart + Flutter
-
 ## 연락처
 
-* Mail : choigriaffe@naver.com / gs22117@gs.hs.kr
+* Mail : choigriaffe@naver.com
 * Discord : 염화은#7055
-* Blog : http://blog.cygnus330.me/
