@@ -3,6 +3,9 @@
 한국에 거주하고 있는 평범한 고등학생 1입니다.
 ~~사실 법적으로는 고등학교가 아닙니다~~
 
+
+이젠 대학생이 되어버렸네요
+
 ## 스탯
 
 <table><tr><td valign="top" width="20%">
@@ -15,4 +18,3 @@
 ## 연락처
 
 * Mail : choigriaffe@naver.com
-* Discord : 염화은#7055
